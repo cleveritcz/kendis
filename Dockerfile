@@ -1,3 +1,3 @@
 FROM kendisdocker/kendis
 
-RUN apt -y install telnet
+RUN  apt -y install telnet
